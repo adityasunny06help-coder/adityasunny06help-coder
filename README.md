@@ -19,41 +19,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityasunny06help-coder&show_icons=true&theme=radical&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,prs_merged,issues" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasunny06help-coder&theme=radical&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="180px"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasunny06help-coder&layout=compact&theme=radical&hide_border=true&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="160px"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasunny06help-coder&theme=react-dark&bg_color=0d1117&color=ffffff&line=8A2BE2&point=8A2BE2&hide_border=true" width="95%" alt="Activity graph"/>
-</div>
-
-<!-- SUMMARY-START -->
-<details>
-<summary><b>📊 Detailed Profile Stats — click to expand (auto-updated daily, IST)</b></summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/0-profile-details.svg" width="95%" alt="Profile details"/>
-<br/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="47%" alt="Repos per language"/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="47%" alt="Most commit language"/>
-<br/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/3-stats.svg" width="47%" alt="Stats"/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/4-productive-time.svg" width="47%" alt="Productive time"/>
-</div>
-</details>
-<!-- SUMMARY-END -->
-
-<details>
-<summary><b>🏆 GitHub Trophies — click to expand</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityasunny06help-coder&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="95%" alt="GitHub trophies"/>
-</div>
-</details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🛡️ About Me
@@ -104,24 +69,71 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/meta/0082FB" height="38" alt="Meta logo"/><br/><b>Meta</b><br/><sub>Bug Bounty · $550 · HoF</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/dell/007DB8" height="38" alt="Dell logo"/><br/><b>Dell Technologies</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/samsung/1428A0" height="38" alt="Samsung logo"/><br/><b>Samsung</b><br/><sub>HackerOne · Valid</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=adobe.com&amp;sz=128" height="38" alt="Adobe logo"/><br/><b>Adobe</b><br/><sub>HackerOne · Valid</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=google.com&amp;sz=128" height="38" alt="Google logo"/><br/><b>Google</b><br/><sub>Bug Bounty · VRP</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=microsoft.com&amp;sz=128" height="38" alt="Microsoft (MSRC) logo"/><br/><b>Microsoft (MSRC)</b><br/><sub>13 Vulnerability Reports</sub></td>
+    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/meta/0082FB" height="38" alt="Meta logo"/><br/><b>Meta</b><br/><sub>Bug Bounty · $550 · HoF</sub></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/abb/FF000E" height="38" alt="ABB logo"/><br/><b>ABB</b><br/><sub>HackerOne · 3/3 Valid</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/audible/F8991C" height="38" alt="Audible logo"/><br/><b>Audible</b><br/><sub>HackerOne · Valid</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=verisk.com&amp;sz=128" height="38" alt="Verisk logo"/><br/><b>Verisk</b><br/><sub>Hall of Fame</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=xfinity.com&amp;sz=128" height="38" alt="Xfinity logo"/><br/><b>Xfinity Home &amp; xFi</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
+    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/dell/007DB8" height="38" alt="Dell Technologies logo"/><br/><b>Dell Technologies</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
+    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/samsung/1428A0" height="38" alt="Samsung logo"/><br/><b>Samsung</b><br/><sub>HackerOne · Valid</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=adobe.com&amp;sz=128" height="38" alt="Adobe logo"/><br/><b>Adobe</b><br/><sub>HackerOne · Valid</sub></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=pinelabs.com&amp;sz=128" height="38" alt="Pine Labs logo"/><br/><b>Pine Labs</b><br/><sub>YesWeHack HoF · Rank 43</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=shop-apotheke.com&amp;sz=128" height="38" alt="Shop Apotheke logo"/><br/><b>Shop Apotheke</b><br/><sub>Intigriti · Rank 43</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=bajajfinserv.in&amp;sz=128" height="38" alt="Bajaj Finserv logo"/><br/><b>Bajaj Finserv</b><br/><sub>Security Heroes</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=napkin.ai&amp;sz=128" height="38" alt="Napkin AI logo"/><br/><b>Napkin AI</b><br/><sub>HackerOne · Valid</sub></td>
+    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/abb/FF000E" height="38" alt="ABB logo"/><br/><b>ABB</b><br/><sub>HackerOne · 3/3 Valid</sub></td>
+    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/audible/F8991C" height="38" alt="Audible logo"/><br/><b>Audible</b><br/><sub>HackerOne · Valid</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=verisk.com&amp;sz=128" height="38" alt="Verisk logo"/><br/><b>Verisk</b><br/><sub>Hall of Fame</sub></td>
   </tr>
-  <tr>     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=viator.com&amp;sz=128" height="38" alt="Viator logo"/><br/><b>Viator</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/linktree/43E55E" height="38" alt="Linktree logo"/><br/><b>Linktree</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=majidalfuttaim.com&amp;sz=128" height="38" alt="Majid Al Futtaim logo"/><br/><b>Majid Al Futtaim Lifestyle</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/bugcrowd/ffffff" height="38" alt="Bugcrowd logo"/><br/><b>Bugcrowd</b><br/><sub>21 vulns · 66 points · 5× HoF</sub></td>   </tr> </table>
+  <tr>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=xfinity.com&amp;sz=128" height="38" alt="Xfinity Home &amp; xFi logo"/><br/><b>Xfinity Home &amp; xFi</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=pinelabs.com&amp;sz=128" height="38" alt="Pine Labs logo"/><br/><b>Pine Labs</b><br/><sub>YesWeHack HoF · Rank 43</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=shop-apotheke.com&amp;sz=128" height="38" alt="Shop Apotheke logo"/><br/><b>Shop Apotheke</b><br/><sub>Intigriti · Rank 43</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=bajajfinserv.in&amp;sz=128" height="38" alt="Bajaj Finserv logo"/><br/><b>Bajaj Finserv</b><br/><sub>Security Heroes</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=napkin.ai&amp;sz=128" height="38" alt="Napkin AI logo"/><br/><b>Napkin AI</b><br/><sub>HackerOne · Valid</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=viator.com&amp;sz=128" height="38" alt="Viator logo"/><br/><b>Viator</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/linktree/43E55E" height="38" alt="Linktree logo"/><br/><b>Linktree</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
+    <td align="center" width="33%"><img src="https://www.google.com/s2/favicons?domain=majidalfuttaim.com&amp;sz=128" height="38" alt="Majid Al Futtaim Lifestyle logo"/><br/><b>Majid Al Futtaim Lifestyle</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
+    <td align="center" width="33%"><img src="https://cdn.simpleicons.org/bugcrowd/ffffff" height="38" alt="Bugcrowd logo"/><br/><b>Bugcrowd</b><br/><sub>21 vulns · 66 points · 5× HoF</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adityasunny06help-coder&show_icons=true&theme=radical&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,prs_merged,issues" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasunny06help-coder&theme=radical&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" height="180px"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasunny06help-coder&layout=compact&theme=radical&hide_border=true&title_color=8A2BE2&text_color=ffffff&bg_color=0d1117" height="160px"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasunny06help-coder&theme=react-dark&bg_color=0d1117&color=ffffff&line=8A2BE2&point=8A2BE2&hide_border=true" width="95%" alt="Activity graph"/>
+</div>
+
+<!-- SUMMARY-START -->
+<details>
+<summary><b>📊 Detailed Profile Stats — click to expand (auto-updated daily, IST)</b></summary>
+<br/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/0-profile-details.svg" width="95%" alt="Profile details"/>
+<br/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="47%" alt="Repos per language"/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="47%" alt="Most commit language"/>
+<br/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/3-stats.svg" width="47%" alt="Stats"/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/4-productive-time.svg" width="47%" alt="Productive time"/>
+</div>
+</details>
+<!-- SUMMARY-END -->
+
+<details>
+<summary><b>🏆 GitHub Trophies — click to expand</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=adityasunny06help-coder&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="95%" alt="GitHub trophies"/>
+</div>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
