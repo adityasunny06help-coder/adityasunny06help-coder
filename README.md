@@ -35,13 +35,13 @@
 <summary><b>📊 Detailed Profile Stats — click to expand (auto-updated daily, IST)</b></summary>
 <br/>
 <div align="center">
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/profile-summary-card-output/radical/0-profile-details.svg" width="95%" alt="Profile details"/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/0-profile-details.svg" width="95%" alt="Profile details"/>
 <br/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/profile-summary-card-output/radical/1-repos-per-language.svg" width="47%" alt="Repos per language"/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/profile-summary-card-output/radical/2-most-commit-language.svg" width="47%" alt="Most commit language"/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="47%" alt="Repos per language"/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="47%" alt="Most commit language"/>
 <br/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/profile-summary-card-output/radical/3-stats.svg" width="47%" alt="Stats"/>
-<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/profile-summary-card-output/radical/4-productive-time.svg" width="47%" alt="Productive time"/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/3-stats.svg" width="47%" alt="Stats"/>
+<img src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/main/profile-summary-card-output/radical/4-productive-time.svg" width="47%" alt="Productive time"/>
 </div>
 </details>
 <!-- SUMMARY-END -->
