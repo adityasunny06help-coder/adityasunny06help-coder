@@ -95,11 +95,6 @@
 ## ✍️ Latest on Medium
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Takeover &amp; Supply Chain Risk! $$$$ Bounty](https://infosecwriteups.com/linktrees-entire-mobile-infrastructure-exposed-hardcoded-secrets-in-strings-xml-bb881b0a86d7?source=rss-b8ebb8852210------2)
-- [How Pakistani TV Channels Were Hijacked](https://adityasunny06.medium.com/how-pakistani-tv-channels-were-hijacked-b062e63aafe1?source=rss-b8ebb8852210------2)
-- [A chain of Google Docs flaws leads to one‑click Drive folder/file hijack — $4,133.70](https://infosecwriteups.com/a-chain-of-google-docs-flaws-leads-to-one-click-drive-folder-file-hijack-4-133-70-060a3108769e?source=rss-b8ebb8852210------2)
-- [XSS in Google IDX Workstation → RCE! $22,500 Bounty Earned](https://infosecwriteups.com/xss-in-google-idx-workstation-rce-22-500-bounty-earned-2d09f0176869?source=rss-b8ebb8852210------2)
-- [I Leaked Keywords from Google Drive with a Tiny Side‑Channel ⚡ &lpar;$5,000 Bounty&rpar;](https://infosecwriteups.com/i-leaked-keywords-from-google-drive-with-a-tiny-side-channel-5-000-bounty-480ab5b97bf5?source=rss-b8ebb8852210------2)
 <!-- BLOG-POST-LIST:END -->
 
 *This list auto-updates from my Medium feed — no manual edits needed.*
@@ -124,11 +119,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
