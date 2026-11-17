@@ -105,15 +105,15 @@
 <table align="center">
   <tr>
     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/meta/0082FB" height="38" alt="Meta logo"/><br/><b>Meta</b><br/><sub>Bug Bounty · $550 · HoF</sub></td>
-    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/dell/007DB8" height="38" alt="Dell logo"/><br/><b>Dell</b><br/><sub>Bugcrowd Hall of Fame</sub></td>
+    <td align="center" width="25%"><img src="https://cdn.simpleicons.org/dell/007DB8" height="38" alt="Dell logo"/><br/><b>Dell Technologies</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/samsung/1428A0" height="38" alt="Samsung logo"/><br/><b>Samsung</b><br/><sub>HackerOne · Valid</sub></td>
     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=adobe.com&amp;sz=128" height="38" alt="Adobe logo"/><br/><b>Adobe</b><br/><sub>HackerOne · Valid</sub></td>
   </tr>
   <tr>
     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/abb/FF000E" height="38" alt="ABB logo"/><br/><b>ABB</b><br/><sub>HackerOne · 3/3 Valid</sub></td>
     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/audible/F8991C" height="38" alt="Audible logo"/><br/><b>Audible</b><br/><sub>HackerOne · Valid</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=verisk.com&amp;sz=128" height="38" alt="Verisk logo"/><br/><b>Verisk</b><br/><sub>Bugcrowd Hall of Fame</sub></td>
-    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=xfinity.com&amp;sz=128" height="38" alt="Xfinity logo"/><br/><b>Xfinity Home</b><br/><sub>Bugcrowd Hall of Fame</sub></td>
+    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=verisk.com&amp;sz=128" height="38" alt="Verisk logo"/><br/><b>Verisk</b><br/><sub>Hall of Fame</sub></td>
+    <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=xfinity.com&amp;sz=128" height="38" alt="Xfinity logo"/><br/><b>Xfinity Home &amp; xFi</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>
   </tr>
   <tr>
     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=pinelabs.com&amp;sz=128" height="38" alt="Pine Labs logo"/><br/><b>Pine Labs</b><br/><sub>YesWeHack HoF · Rank 43</sub></td>
@@ -121,7 +121,7 @@
     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=bajajfinserv.in&amp;sz=128" height="38" alt="Bajaj Finserv logo"/><br/><b>Bajaj Finserv</b><br/><sub>Security Heroes</sub></td>
     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=napkin.ai&amp;sz=128" height="38" alt="Napkin AI logo"/><br/><b>Napkin AI</b><br/><sub>HackerOne · Valid</sub></td>
   </tr>
-</table>
+  <tr>     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=viator.com&amp;sz=128" height="38" alt="Viator logo"/><br/><b>Viator</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/linktree/43E55E" height="38" alt="Linktree logo"/><br/><b>Linktree</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>     <td align="center" width="25%"><img src="https://www.google.com/s2/favicons?domain=majidalfuttaim.com&amp;sz=128" height="38" alt="Majid Al Futtaim logo"/><br/><b>Majid Al Futtaim Lifestyle</b><br/><sub>Bugcrowd — Hall of Fame</sub></td>     <td align="center" width="25%"><img src="https://cdn.simpleicons.org/bugcrowd/ffffff" height="38" alt="Bugcrowd logo"/><br/><b>Bugcrowd</b><br/><sub>21 vulns · 66 points · 5× HoF</sub></td>   </tr> </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
