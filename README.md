@@ -200,7 +200,7 @@
 
 <div align="center">
 
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img alt="Pac-Man contribution game" src="https://raw.githubusercontent.com/adityasunny06help-coder/adityasunny06help-coder/output/pacman-contribution-graph-dark.svg" width="100%">
 
 </div>
 
