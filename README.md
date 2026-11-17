@@ -28,7 +28,7 @@
 - 🏢 **13 reports submitted to Microsoft MSRC** (.NET, Azure & Identity) — every finding locally reproduced before reporting
 - 📱 Specialising in **Web, API & Android (APK) security** — access control, authentication & server-side flaws
 - 🐙 **Open source:** Reported a Microsoft **OpenVMM** issue on GitHub — fix merged with a regression test
-- 🎓 **ITI — ITSM (2023–2025)** · Class 10, CBSE — JNV Arwal (2023) · Class 12 — final in 2027
+- 🎓 **ITI — ICTSM** (Information & Communication Technology System Maintenance) **2023–2025** · Class 10, CBSE — JNV Arwal (2023) · Class 12 — final in 2027
 - 📍 Arwal, Bihar, India
 
 <div align="center">
